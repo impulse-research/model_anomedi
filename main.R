@@ -2,7 +2,7 @@ library(tidyverse)
 
 list.files("R", pattern = "\\.R$", full.names = TRUE) %>%
   walk(source, encoding = "UTF-8")
-# test commit exemple
+
 # -----------------------------------------------------------------------------
 # Paramètres
 # -----------------------------------------------------------------------------
