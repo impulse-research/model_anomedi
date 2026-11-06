@@ -1,0 +1,11 @@
+freq,m,normalisation,quantile_seuil,n_persistance,commentaire
+mois,3,z,0.95,3,
+mois,6,z,0.95,3,
+mois,12,z,0.95,3,
+mois,3,brute,0.95,3,
+mois,6,brute,0.95,3,
+mois,12,brute,0.95,3,
+trimestre,4,z,0.95,2,
+trimestre,4,brute,0.95,2,
+semestre,4,z,0.95,2,series courtes (~22 points) : resultats fragiles
+semestre,4,brute,0.95,2,series courtes (~22 points) : resultats fragiles

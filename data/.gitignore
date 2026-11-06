@@ -1,0 +1,5 @@
+*
+!.gitignore
+!medicam/
+!fichier_intermediaire/
+!correction_dosage.csv
